@@ -17,7 +17,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <img 
-            src="/img/Logo.png" 
+            src="https://i.imgur.com/5vWUyQs.png" 
             alt="Logo" 
             className="object-contain" 
             style={{ width: "100px", height: "100px" }}
