@@ -8,7 +8,7 @@ const Hero = () => {
       <div 
         className="relative z-10 min-h-[90vh] flex items-center"
         style={{
-          backgroundImage: "url('https://img.freepik.com/fotos-gratis/homem-fazendo-servico-profissional-de-limpeza-domestica_23-2150359024.jpg?t=st=1741008946~exp=1741012546~hmac=4642cef6cc90f04e92e7a6e0d8589efea2b54c4444f86b3130cc4bd87acc153b&w=1060')",
+          backgroundImage: "url('https://i.pinimg.com/736x/1a/1e/e4/1a1ee42d3428b0420dddab089da5bc5f.jpg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
