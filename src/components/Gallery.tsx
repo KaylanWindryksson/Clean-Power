@@ -6,28 +6,28 @@ const Gallery = () => {
 
   const images = [
     {
-      url: "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      title: "Sofá antes e depois"
+      url: "https://i.imgur.com/YLv9v8N.png",
+      title: "Sofá"
     },
     {
-      url: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      title: "Limpeza de poltrona"
+      url: "https://i.imgur.com/nilaHzc.png",
+      title: "Limpeza de Cadeiras"
     },
     {
-      url: "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      url: "https://i.imgur.com/stHNRpC.png",
       title: "Higienização de colchão"
     },
     {
-      url: "https://images.unsplash.com/photo-1558211583-d26f610c1eb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      url: "https://i.imgur.com/WySG6T0.png",
       title: "Limpeza de tapete"
     },
     {
-      url: "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      url: "https://i.imgur.com/4hIPzFa.png",
       title: "Estofado automotivo"
     },
     {
-      url: "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-      title: "Cadeiras de escritório"
+      url: "https://i.imgur.com/UdzoTea.png",
+      title: "Impermeabilização"
     }
   ];
 
